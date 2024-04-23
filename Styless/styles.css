@@ -1,0 +1,26 @@
+body {
+    background-color: #f6d6d6; /* Light gray background */
+    font-family: Arial, sans-serif; /* Fallback font */
+  }
+  
+  h1, h2, h3 {
+    color: #272727; /* Dark gray for headings */
+    margin-bottom: 15px;
+  }
+  
+  p {
+    line-height: 1.5; /* Improves readability */
+  }
+  
+  .video-container {
+    width: 600px; /* Set a width for the video */
+    margin: 0 auto; /* Center the video horizontally */
+    padding: 10px; /* Add some padding around the video */
+    border: 1px solid #ddd; /* Simple border */
+  }
+  
+  .recipe {
+    background-color: #d8daf8; /* Light background for the recipe */
+    padding: 15px;
+    border-radius: 5px; /* Rounded corners */
+  }
